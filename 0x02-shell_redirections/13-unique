@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq | tr -s ' ' '\n
+sort | tr -s ' ' '\n
