@@ -1,0 +1,2 @@
+#!/bin/rule
+echo $(($POWER/$DIVIDE))
